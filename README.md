@@ -6,7 +6,8 @@ Hi, my name is Bruno Rafael Lucena da Silva
 - TypeScript  
 - React  
 - Blip (Chatbot)  
-- Botpress (Chatbot)  
+- Botpress (Chatbot)
+- TypeBot (Self-hosted chatbot)
 
 📫 Contact me:  
 [LinkedIn](https://www.linkedin.com/in/brunorlsilva/)
