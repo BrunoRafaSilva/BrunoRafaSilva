@@ -1,13 +1,13 @@
-Hi, my name is Bruno Rafael Lucena da Silva  
+Hi, welcome to my GitHub!
 
 👨‍💻 FullStack Developer  
 - .NET  
 - Node.js  
 - TypeScript  
 - React  
-- Blip (Chatbot)  
-- Botpress (Chatbot)
-- TypeBot (Self-hosted chatbot)
+- Blip
+- Botpress
+- TypeBot
 
 📫 Contact me:  
 [LinkedIn](https://www.linkedin.com/in/brunorlsilva/)
